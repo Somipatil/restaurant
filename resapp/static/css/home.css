@@ -1,0 +1,12 @@
+body{
+  background-image: url("../images/bg1.jpeg");
+}
+h2{
+  text-align: center;
+  color: #FA4B6A;
+  font-size: 5vw;
+}
+btn{
+  text-align: center;
+  color: blue;
+}
